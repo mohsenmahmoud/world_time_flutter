@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "adc22a1f374a8e70b88464b0580e09431866428a0a073797464c280cc6817ac7"
+build_start_time: [1668777418, 512815952]
+build_end_time: [1668777425, 695724010]
+inputs:
+  "/Users/mohsen/Desktop/worled_time/macos/Flutter/GeneratedPluginRegistrant.swift": [1668777403, 15036106]
+  "/Users/mohsen/Desktop/worled_time/macos/Runner/AppDelegate.swift": [1650277330, 0]
+  "/Users/mohsen/Desktop/worled_time/macos/Runner/MainFlutterWindow.swift": [1650277330, 0]
